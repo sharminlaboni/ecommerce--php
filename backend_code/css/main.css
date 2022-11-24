@@ -1,0 +1,25 @@
+.card_category {
+    height: 130px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+.category-width {
+    margin-top: 10px;
+}
+
+
+.card_category_add {
+    width: 30vw;
+    margin: 10px auto;
+}
+
+.category_title {
+    text-align: center;
+}
+
+.product-update-card {
+    margin: 10px auto;
+    width: 30vw;
+}
